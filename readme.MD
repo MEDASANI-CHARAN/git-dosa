@@ -7,3 +7,6 @@
 ## Egg karam dosa
 * Dosa batter
 * Extra karam
+
+## Egg dosa
+* Dosa batter
