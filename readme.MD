@@ -10,3 +10,4 @@
 
 ## Egg Dosa
 * Dosa batter
+* Add 2 eggs
