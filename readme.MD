@@ -24,5 +24,5 @@
 # Ghee karam dosa
 * Dosa batter
 * ghee
-* Add 2 eggs
-
+* Add 4 eggs
+* Egg and karam and oil
