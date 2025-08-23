@@ -14,4 +14,5 @@
 
 ## Karam-egg dosa
 * Dosa batter
-* Egg and karam and extra oil
+* 2 Eggs and karam with oil
+* chetney
