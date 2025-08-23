@@ -14,4 +14,4 @@
 
 ## Karam-egg dosa
 * Dosa batter
-* 2 Eggs and karam
+* 2 Eggs and karam with oil
