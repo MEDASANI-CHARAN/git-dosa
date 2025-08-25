@@ -16,3 +16,9 @@
 * Dosa batter
 * 2 Eggs and karam with oil
 * chetney
+
+# Panner dosa
+* Dosa batter
+* panner curry
+
+
